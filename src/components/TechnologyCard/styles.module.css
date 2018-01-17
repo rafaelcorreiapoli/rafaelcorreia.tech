@@ -1,0 +1,30 @@
+.image {
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  display: inline-block;
+
+}
+.nameContainer {
+  padding: 0px 4px 8px 4px;
+}
+.p {
+  margin: 0px;
+  font-size: 12px;
+  font-weight: 300;
+  text-align: center;
+}
+.progressTrack {
+  height: 4px;
+  background-color: #eee;
+  width: 100%;
+
+}
+.progress {
+  background-color: #2ecc71;
+  height: 100%;
+  opacity: 0.25;
+}

@@ -1,0 +1,13 @@
+.container {
+  position: relative;
+}
+.img {
+  transition: 0.8s ease-in-out;
+  height: auto;
+  width: 100%;
+  /*position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;*/
+}

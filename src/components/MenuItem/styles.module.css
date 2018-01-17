@@ -1,0 +1,15 @@
+.container {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #666;
+  padding-left: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 300;
+  cursor: pointer;
+  transition: .3s;
+}
+.container:hover {
+  color: #000;
+  background-color: #ddd;
+}

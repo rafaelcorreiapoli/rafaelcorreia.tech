@@ -1,0 +1,15 @@
+.container {
+  background-color: #FFF;
+  width: 100%;
+  height: auto;
+  /*height: 600px;*/
+}
+
+.img {
+  /*padding-left: 5px;*/
+  /*width: 1024px;*/
+  /*height: auto;*/
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+}

@@ -1,0 +1,22 @@
+.div {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #d3d3d3;
+}
+.p {
+  font-weight: 300;
+  margin: 0px;
+  font-size: 14px;
+  color: #666;
+}
+.a {
+  text-decoration: underline;
+}
+.name {
+  font-weight: 700;
+  font-size: 16px;
+  color: #1f1f1f;
+  margin-bottom: 10px;
+}
